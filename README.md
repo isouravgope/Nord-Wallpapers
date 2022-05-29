@@ -15,10 +15,16 @@
 
 
 # Sample 👑
-![The Witcher](wallpapers/66.png)
-![The Witcher](wallpapers/8.png)
+![](wallpapers/66.png)
+![](wallpapers/79.png)
+![](wallpapers/8.png)
+![](wallpapers/78.png)
+![](wallpapers/77.png)
+![](wallpapers/73.png)
 ![](wallpapers/52.png)
 ![](wallpapers/53.png)
+![](wallpapers/70.png)
+![](wallpapers/76.png)
 ![](wallpapers/58.png)
 ![](wallpapers/27.png)
 ![](wallpapers/63.png)
