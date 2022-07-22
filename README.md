@@ -10,7 +10,7 @@
 <summary>"Click to Expand"</summary>
 
 **I dont Own any rights to these wallpapers**.
-
+# Credits ![ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord)
 </details>
 
 
